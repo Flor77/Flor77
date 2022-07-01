@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Flor77
 - 👀 I’m interested in Web application development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web application develpment 
 - 📫 How to reach me: via email
 
