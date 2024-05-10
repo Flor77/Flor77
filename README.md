@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Florin Buda
 - 👀 I’m interested in Web application development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web application development 
 - 📫 How to reach me: via email
 
